@@ -136,7 +136,7 @@ export const DATA = {
       dates: "November 2020 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "An e-learning application that provides MCQ Bank, course materials, and simulated medical exams, this solution is AI-powered to give a unique expereince to students for better understanding while focusing on their weaknesses. ",
       technologies: ["Node.js", "Express.js", "GraphQL", "MongoDB", "Docker"],
       links: [
         {
