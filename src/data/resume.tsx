@@ -43,12 +43,6 @@ export const DATA = {
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
-        navbar: true,
-      },
       email: {
         name: "Send Email",
         url: "mailto:redouan1af@gmail.com",
