@@ -169,6 +169,23 @@ export const DATA = {
       ],
       image: "/mygoodboss-landing.png",
     },
+    {
+      title: "theMotel",
+      href: "https://themotel.netlify.app/",
+      dates: "",
+      active: true,
+      description:
+        "A single static page that shows hotel information for booking",
+      technologies: ["HTML", "CSS", "SASS", "Javascript"],
+      links: [
+        {
+          type: "Website",
+          href: "https://themotel.netlify.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/themotel-landing.png",
+    },
   ],
   hackathons: [],
 } as const;
